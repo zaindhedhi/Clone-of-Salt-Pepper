@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+
+
+/* nav bar started */
+.logo{
+    width: 165px;
+}
+
+.nav-text{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.franchise{
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+
+.order{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+}
+.arrow{
+    color: #ed1c24;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;}
+
+    /* nav bar ended */
+
+    /* section 2 started */
+    .comtainer{
+        width: 1400px;
+    }
+    /* section 2 ended */
+
+    /* welcome started */
+    .text-logo{
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        color: #ffffff;
+        font-family: "Jaro", sans-serif;
+    }
