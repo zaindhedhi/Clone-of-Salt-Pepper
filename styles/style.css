@@ -97,3 +97,48 @@ a{
         background-color: rgba(255, 255, 255, 0.06);
         padding: 70px;
     }
+    .snp-right-side{
+        position: absolute;
+        right: 25px;
+        top: 25px;
+    }
+    .custom-row{
+        margin: 48px;
+    }
+    .franchise-home-box-content small{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 0.48em;
+        text-transform: uppercase;
+        color: #ed1c24;
+        margin-bottom: 8px;
+    }
+    .franchise-home-box-content h3{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        color: #ffffff;
+        margin-bottom: 24px;
+    }
+    .logo-text-second{
+        font-family: "Jaro", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+    }
+    .franchise-home-box-content-3{
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0.03em;
+        margin-bottom: 10px;
+        color: rgb(255, 255, 255, 0.7);
+    }
+    .franchise-home-box-content-4{
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0.03em;
+        margin-bottom: 10px;
+        color: rgb(255, 255, 255, 0.7);
+    }
+    
