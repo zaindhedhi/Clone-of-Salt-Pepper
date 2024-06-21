@@ -51,7 +51,7 @@ html{
     gap: 50px;
 }
 .flex-basis{
-    flex
+    flex-basis: 20px;
 }
 
 /* flex classes end */
