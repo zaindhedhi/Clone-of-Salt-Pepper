@@ -11,6 +11,9 @@ html{
 .font-size{
     font-size: 3.5rem;
 }
+.font{
+    font-size: 4rem;
+}
 
 /* utility classes */
 
@@ -87,6 +90,9 @@ html{
 }
 .mt5{
     margin-top: 50px;
+}
+.mt6{
+    margin-top: 85px;
 }
 .mx1{
     margin: 0px 5px;

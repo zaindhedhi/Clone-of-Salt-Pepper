@@ -145,4 +145,7 @@ a{
 
         
         /* section 2 express branches started */
-    
+        .snp-left{
+            position: absolute;
+            padding: 20px;
+        }
